@@ -1,0 +1,1 @@
+This indicator is set when an error has occurred in an operation related to the stream

@@ -1,0 +1,2 @@
+Streams are handled in the cstdio library as pointers to FILE objects
+This indicator is set when an error has occurred in an operation related to the stream

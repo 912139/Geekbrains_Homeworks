@@ -1,0 +1,1 @@
+Streams are handled in the cstdio library as pointers to FILE objects
