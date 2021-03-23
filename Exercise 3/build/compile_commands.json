@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/eldorado/Desktop/GB_HW_3/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\eldorado\\Desktop\\GB_HW_3\\main.cpp",
+  "file": "C:/Users/eldorado/Desktop/GB_HW_3/main.cpp"
+},
+{
+  "directory": "C:/Users/eldorado/Desktop/GB_HW_3/build",
+  "command": "C:\\PROGRA~2\\MINGW-~1\\I686-8~1.0-P\\mingw32\\bin\\G__~1.EXE   -g -o CMakeFiles\\main.dir\\foo.cpp.obj -c C:\\Users\\eldorado\\Desktop\\GB_HW_3\\foo.cpp",
+  "file": "C:/Users/eldorado/Desktop/GB_HW_3/foo.cpp"
+}
+]
